@@ -1,0 +1,15 @@
+    "packagerOpts":{
+      "config":"metro.config.js",
+      "sourceExts":[
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    }
